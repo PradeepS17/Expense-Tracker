@@ -4,11 +4,11 @@
 A full-stack Expense Tracker web application that helps users track their daily income and expenses. Built using React for the frontend, Golang (Go) for the backend REST API, and MongoDB as the NoSQL database.
 
 🔧 Tech Stack
-Frontend: React.js, Axios, Tailwind CSS (or your CSS framework)
+Frontend: React.js, Axios, CSS
 
 Backend: Go (Golang), Gin Framework, RESTful API
 
-Database: MongoDB (Cloud or Local)
+Database: MongoDB
 
 ✨ Features
 ✅ Add, update, and delete expense/income entries
